@@ -70,7 +70,7 @@ Sistemas de trading automatizado desplegados en un servidor Linux en **GCP**.
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhorman1014&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhorman1014&show_icons=true&count_private=true&theme=github_dark&hide_border=true&locale=es" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhorman1014&layout=compact&theme=github_dark&hide_border=true&locale=es" />
 </p>
 <p align="center">
