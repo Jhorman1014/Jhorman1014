@@ -82,5 +82,6 @@ Sistemas de trading automatizado desplegados en un servidor Linux en **GCP**.
 ### 📫 Contacto
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/jhorman-guatava-396021207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jhormanguatava@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
